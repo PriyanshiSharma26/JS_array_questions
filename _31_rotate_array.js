@@ -1,0 +1,1 @@
+// Rotate the array [1, 2, 3, 4, 5] to the left by 2 positions. 
